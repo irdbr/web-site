@@ -1,0 +1,51 @@
+Frases
+ 
+ Conforto
+  Amor
+  Consolar
+  Coracao
+  
+ Familia
+  Consolo
+  ErguerACabeca
+  Superacao
+
+ FrasesDeEfeito
+  Feliz
+  Otimismo
+  Sofrimento
+
+ Motivacao
+  Confianca
+  Inspiracao
+  Sucesso
+
+ ParaAmigos
+  Carinho
+  Incentivo
+  Saudades
+
+ ParaChoqueCaminhao
+  Curiosas
+  MelhoresIdeias
+  Relaxar
+
+ Pensamentos
+  AutoAjuda
+  AutoConfianca
+  Reflexao
+
+ Religiosas
+  Espiritual
+  Fe
+  Luto
+  
+ VersiculosDaBiblia
+  Deus
+  Salmos
+  Vida
+
+  
+
+
+ 
