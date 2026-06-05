@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="../assets/img/favicon.png">
 
     <title>Calculadora de Gorjeta Grátis para Android | IRDBR Apps</title>
 
@@ -25,6 +26,15 @@
     <meta name="twitter:title" content="Calculadora de Gorjeta para Android">
     <meta name="twitter:description" content="Aplicativo gratuito para calcular gorjetas.">
     <meta name="twitter:image" content="https://irdbr.github.io/web-site/assets/img/apps/calculadora-gorjeta/ic_launcher-playstore.png">
+
+    <script type="application/ld+json">
+        {
+            "@context":"https://schema.org",
+            "@type":"Organization",
+            "name":"IRDBR",
+            "url":"https://irdbr.github.io/web-site/"
+        }
+    </script>
 
     <script type="application/ld+json">
         {
@@ -161,6 +171,25 @@
             padding-top:20px;
         }
 
+        .related-apps{
+            display:flex;
+            flex-wrap:wrap;
+            gap:20px;
+            justify-content:center;
+        }
+
+        .app-card{
+            width:250px;
+            padding:15px;
+            border:1px solid #ddd;
+            border-radius:10px;
+            text-align:center;
+        }
+
+        .app-card img{
+            width:100px;
+        }
+
     </style>
 
 </head>
@@ -187,12 +216,12 @@
     <a class="btn"
        href="https://play.google.com/store/apps/details?id=br.com.irdbr.calculadoradegorjeta"
        target="_blank">
-        Baixar na Google Play </a>
+        📲 Instalar Gratuitamente na Google Play </a>
 
     <a class="btn"
        href="https://apkpure.com/p/br.com.irdbr.calculadoradegorjeta"
        target="_blank">
-        Baixar na APKPure </a>
+        📲 Instalar Gratuitamente na APKPure </a>
 
 </section>
 
@@ -288,14 +317,25 @@
 
 </div>
 
-<h2>Conheça outros aplicativos IRDBR</h2>
+<h2>Conheça Outros Aplicativos</h2>
 
-<ul>
-    <li><a href="#">Calculadora IMC</a></li>
-    <li><a href="#">Conversor de Moedas</a></li>
-    <li><a href="#">Álcool ou Gasolina</a></li>
-    <li><a href="#">Frases de Conforto</a></li>
-</ul>
+<div class="related-apps">
+
+    <div class="app-card">
+        <img src="../assets/img/portfolio/imc.png" alt="Calculadora IMC">
+        <h3>Calculadora IMC</h3>
+        <p>Calcule seu Índice de Massa Corporal.</p>
+        <a href="calculadora-imc.html">Ver Aplicativo</a>
+    </div>
+
+    <div class="app-card">
+        <img src="../assets/img/portfolio/moedas.png" alt="Conversor de Moedas">
+        <h3>Conversor de Moedas</h3>
+        <p>Converta moedas rapidamente.</p>
+        <a href="conversor-de-moedas.html">Ver Aplicativo</a>
+    </div>
+
+</div>
 
 <footer>
 
