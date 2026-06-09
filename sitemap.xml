@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Página Inicial -->
 
     <url>
         <loc>https://irdbr.github.io/web-site/</loc>
@@ -7,20 +10,112 @@
         <priority>1.0</priority>
     </url>
 
+    <!-- Catálogo -->
+
     <url>
         <loc>https://irdbr.github.io/web-site/todos_apps/todos_apps.html</loc>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
 
+    <!-- Desenvolvedor -->
+
     <url>
-        <loc>
-            https://irdbr.github.io/web-site/apps/calculadora-de-gorjeta.html
-        </loc>
+        <loc>https://irdbr.github.io/web-site/desenvolvedor/irdbr.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Apps -->
+
+    <url>
+        <loc>https://irdbr.github.io/web-site/apps/calculadora-de-gorjeta.html</loc>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
 
+    <url>
+        <loc>https://irdbr.github.io/web-site/apps/calculadora-imc.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
 
-<url><loc>https://irdbr.github.io/web-site/desenvolvedor/irdbr.html</loc></url>
+    <url>
+        <loc>https://irdbr.github.io/web-site/apps/conversor-de-moedas.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://irdbr.github.io/web-site/apps/alcool-ou-gasolina.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://irdbr.github.io/web-site/apps/idade-do-cachorro.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://irdbr.github.io/web-site/apps/idade-do-gato.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://irdbr.github.io/web-site/apps/cara-ou-coroa.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://irdbr.github.io/web-site/apps/dado.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://irdbr.github.io/web-site/apps/pedra-papel-tesoura.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://irdbr.github.io/web-site/apps/sorteio.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://irdbr.github.io/web-site/apps/frases-de-conforto.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://irdbr.github.io/web-site/apps/frases-de-efeito.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://irdbr.github.io/web-site/apps/quantos-dias-para-o-ano-novo.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://irdbr.github.io/web-site/apps/bee-happy.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://irdbr.github.io/web-site/apps/pim.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
 </urlset>
