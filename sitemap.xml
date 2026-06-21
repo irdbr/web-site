@@ -119,6 +119,12 @@
     </url>
 
     <url>
+        <loc>https://irdbr.github.io/web-site/apps/focus-sprint.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
         <loc>https://irdbr.github.io/web-site/mapa-do-site.html</loc>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
