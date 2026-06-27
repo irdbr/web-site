@@ -101,6 +101,12 @@
     </url>
 
     <url>
+        <loc>https://irdbr.github.io/web-site/apps/frases-de-familia.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
         <loc>https://irdbr.github.io/web-site/apps/quantos-dias-para-o-ano-novo.html</loc>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
